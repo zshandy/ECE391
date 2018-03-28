@@ -25,4 +25,4 @@ sudo make
 the make command will create two images the kernel image "bootimg.img"
 and the disk image "mp3.img".
 
-The created disk image is provide for running kernel in QEMU emulator
+The created disk image is provided for running kernel in QEMU emulator
