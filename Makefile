@@ -1,6 +1,6 @@
 
 # Makefile for OS project
-# To build, first `make dep`, them `make`. Everything should be automatic.
+# To build, first `make dep`, then `make`. Everything should be automatic.
 # Will compile all *.c and *.S files in the current directory.
 
 
