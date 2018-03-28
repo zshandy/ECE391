@@ -13,7 +13,7 @@ There are some extra features:
   - support for schedueling (specifically 3 terminals)
 
 
-## Instrustion to Compile and Install
+## Instruction to Compile
 
 To compile the kernel image:
 
