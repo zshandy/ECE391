@@ -2,9 +2,9 @@
 
 ## Description
 
-This kernel is developed as a school project
+This kernel is developed as a school project.
 
-It contains all the features a normal kernel contains
+It contains all the features a normal kernel contains.
 
 There are some extra features:
   - file system
@@ -25,4 +25,4 @@ sudo make
 the make command will create two images the kernel image "bootimg.img"
 and the disk image "mp3.img".
 
-The created disk image is provided for running kernel in QEMU emulator
+The created disk image is provided for running kernel in QEMU emulator.
